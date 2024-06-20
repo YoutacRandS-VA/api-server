@@ -25,7 +25,7 @@
     },
     "homepage": "https://github.com/cdnjs/api-server#readme",
     "dependencies": {
-        "@sentry/integrations": "^7.92.0",
+        "@sentry/integrations": "^7.116.0",
         "algoliasearch": "^4.22.0",
         "hono": "^3.12.0",
         "is-deflate": "^1.0.0",
